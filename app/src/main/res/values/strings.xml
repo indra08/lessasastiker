@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">WASticker Couple Love Story WAStickerApps</string>
+
+    <string name="message_not_downloaded">This Sticker Not Downloaded</string>
+    <string name="message_downloaded">Download Finish</string>
+
+    <!--ADMOB-->
+    <!--<string name="app_id">ca-app-pub-3940256099942544~6088765944</string>-->
+    <!--<string name="banner_in_main">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="banner_in_sticker_act">ca-app-pub-3940256099942544/6300978111</string>-->
+    <!--<string name="inter_after_add_pack_sticker">ca-app-pub-3940256099942544/1033173712</string>-->
+
+    <string name="sticker_link">f</string>
+    <string name="add_to_whatsapp">ADD TO WHATSAPP</string>
+    <string name="title_activity_test_drawer">TestDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">website.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+</resources>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="Gradle: com.orhanobut:hawk:2.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/6f695f29f1b84aba4a9360fc13566ef7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/6f695f29f1b84aba4a9360fc13566ef7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/2aed8fe3f1acd47d5d4bb44532f12184/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/2aed8fe3f1acd47d5d4bb44532f12184/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/2aed8fe3f1acd47d5d4bb44532f12184/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/e6d654c573257b8ed75cd3d21999f088/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/e6d654c573257b8ed75cd3d21999f088/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/hawk-2.0.1.aar/e6d654c573257b8ed75cd3d21999f088/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.orhanobut/hawk/2.0.1/c88542f56b91ba489723bb6f58f14a303e953d64/hawk-2.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

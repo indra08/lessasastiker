@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.android.billingclient:billing:4.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/billing-4.0.0.aar/3fe527ecb7516a2d3b25e1b80f8f4462/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/billing-4.0.0.aar/3fe527ecb7516a2d3b25e1b80f8f4462/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/billing-4.0.0.aar/3fe527ecb7516a2d3b25e1b80f8f4462/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

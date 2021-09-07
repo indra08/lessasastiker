@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:checked="true"
+            android:id="@+id/nav_store"
+            android:title="Sticker" />
+        <!--<item-->
+            <!--android:id="@+id/nav_make_sticker"-->
+            <!--android:icon="@drawable/ic_add_to_photos_black_24dp"-->
+            <!--android:title="Make Sticker" />-->
+    </group>
+
+    <!-- Bagian ini Boleh Dihapus-->
+    <!--<item android:title="Support">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_help"-->
+                <!--android:title="Help" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_term"-->
+                <!--android:title="Term And Uses" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_about_app"-->
+                <!--android:title="About App" />-->
+        <!--</menu>-->
+    <!--</item>-->
+    <!--Sampai Sini-->
+
+</menu>
