@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/stiker.iml" filepath="$PROJECT_DIR$/stiker.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/stiker.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/stiker.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/tes/stiker.tes.iml" filepath="$PROJECT_DIR$/.idea/modules/tes/stiker.tes.iml" />
     </modules>
   </component>
 </project>
